@@ -6,7 +6,7 @@
  * Description: Add Free Chocolates to cart when an item from the flower-bunch category is ordered.
  * Author: Mark Smallman | GraphicAndWeb.com
  * Author URI: http://www.graphicandweb.com
- * License: GPL3
+ * License: GNU GPL v3
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
