@@ -4,8 +4,8 @@
  * Plugin URI: .
  * Version: 0.2.0
  * Description: Add Free Chocolates to cart when an item from the flower-bunch category is ordered.
- * Author: Mark Smallman | GraphicAndWeb.com
- * Author URI: http://www.graphicandweb.com
+ * Author: Mark Smallman | MacGraphic.co.uk
+ * Author URI: https://www.macgraphic.co.uk
  * License: GNU General Public License v3 (or newer)
  */
 
